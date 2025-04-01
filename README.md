@@ -36,10 +36,6 @@ Soft Skills:
 |**TextWarp**|TextWarp is a static website designed for anyone to test and improve their typing speed| Html,css and Javascript|[TextWarp](https://github.com/lenardjombo/Text-Warp)
 ---
 
-##  **Articles**
- 1. [How to become a java developer](https://medium.com/@leonardjombo6/how-to-become-a-java-software-developer-in-2024-ae656832bf4d?source=user_profile_page---------0-------------d1ea355b96b2---------------)  
- 2. [Getting started with any programming language](https://medium.com/@leonardjombo6/getting-started-with-any-programming-language-97814bdecba2?source=user_profile_page---------2-------------d1ea355b96b2---------------)  
-
 ---
 ##  **Contact**
  Email: [leonardjombo6@gmail.com](mailto:leonardjombo6@gmail.com)  
