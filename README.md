@@ -29,7 +29,7 @@ Soft Skills:
 ##  **Projects**
 | **Project**   | **Description**                               | **Tech Stack**               | **Repository**  |
 |--------------|---------------------------------|---------------------------|---------------------------|
-| **CastWaves** | Designed to enhance for listening to podcasts related to programming and tech content-based podcasts for all.The podcasts can be downloaded for listening offline | [VisitWebsite](https://cast-waves.vercel.app/)  |
+| **CastWaves** | Designed to enhance for listening to podcasts related to programming and tech content-based podcasts for all.The podcasts can be downloaded for listening offline |Html, Css and Javascript | [VisitWebsite](https://cast-waves.vercel.app/)  |
 | **Algorithmic Patterns** | Designed to enhance problem-solving skills, this repository explores creative patterns | Go, Javascript,Java,Python | [AlgorithmicPatterns](https://github.com/lenardjombo/AlgorithmicPatterns) |
 | **Java Open-Source-Projects** | Open-source-Projects for collaborations from developers globally |   Java   | [Open-Source-Projects](https://github.com/lenardjombo/Java-open-source-projects) |
 | **CastMovies** | CastMovies is an online movie streaming platform(Backend - (Not yet implemented) |Html ,Css3 and Javascript | [CastMovies](https://github.com/lenardjombo/CastMovies)|
