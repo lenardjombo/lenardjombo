@@ -33,8 +33,6 @@ Soft Skills:
 | **Algorithmic Patterns** | Designed to enhance problem-solving skills, this repository explores creative patterns | Go, Javascript,Java,Python | [AlgorithmicPatterns](https://github.com/lenardjombo/AlgorithmicPatterns) |
 | **Java Open-Source-Projects** | Open-source-Projects for collaborations from developers globally |   Java   | [Open-Source-Projects](https://github.com/lenardjombo/Java-open-source-projects) |
 | **CastMovies** | CastMovies is an online movie streaming platform(Backend - (Not yet implemented) |Html ,Css3 and Javascript | [CastMovies](https://github.com/lenardjombo/CastMovies)|
-|**Castnotes** |castnotes web app mimicks the word to allow users to type,edit and save their files as pdfs.|Html,css and javascript|[Castnotes](https://github.com/lenardjombo/CastNotes) |
-|**TextWarp**|TextWarp is a static website designed for anyone to test and improve their typing speed| Html,css and Javascript|[TextWarp](https://github.com/lenardjombo/Text-Warp)
 ---
 
 ---
