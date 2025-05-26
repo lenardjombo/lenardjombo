@@ -1,7 +1,7 @@
 
 <h1 align="center" style="color:#6A0DAD;">Lenard Jombo</h1>
 
-![Static Badge](https://img.shields.io/badge/Profile_views-9,192-green)
+![Static Badge](https://img.shields.io/badge/Profile_views-9,092-green)
 
 ![GitHub License](https://img.shields.io/github/license/lenardjombo/AI-Blogger)
 
