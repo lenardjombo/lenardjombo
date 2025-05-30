@@ -1,11 +1,20 @@
+<h1 align="center">Hi, I’m Leonard Jombo 👋🏾</h1>
 
-<img src="https://github.com/user-attachments/assets/ec5346a9-4958-4297-9801-4cea9aa63128" alt="Banner" style="width:100%; height:auto;" />
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding in Action" />
+    </td>
+    <td>
+      <p>
+        I'm a software engineer who is passionate about making open-source more accessible,<br>
+        creating technology to elevate people, and building community.<br><br>
+        🚀 <a href="https://jombo-six.vercel.app">Projects</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h1 id="hi-im-monica-">Hi, I’m Leonard Jombo 👋🏾 👩🏾‍💻</h1>
-
-
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.<br>
-Find me around the web 🚀 : [Projects](https://jombo-six.vercel.app)
 
 
 
