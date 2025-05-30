@@ -1,20 +1,15 @@
+
+<img src="https://github.com/user-attachments/assets/ec5346a9-4958-4297-9801-4cea9aa63128" alt="Banner" style="width:100%; height:auto;" />
+
 <h1 id="hi-im-monica-">Hi, I’m Leonard Jombo 👋🏾 👩🏾‍💻</h1>
 
-![image]("https://img.freepik.com/premium-photo/programmer-with-3d-computer-yellow-code_124008-63.jpg?uid=R202227719&ga=GA1.1.1659842118.1747919320&semt=ais_hybrid&w=740")
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.<br>
 Find me around the web 🚀 : [Projects](https://jombo-six.vercel.app)
 
 
 
-##  **Projects**
-| **Project**   | **Description**                               | **Tech Stack**               | **Repository**  |
-|--------------|---------------------------------|---------------------------|---------------------------|
-| **CastWaves** | Designed to enhance for listening to podcasts related to programming and tech content-based podcasts for all.The podcasts can be downloaded for listening offline |Html, Css and Javascript | [VisitWebsite](https://cast-waves.vercel.app/)  |
-| **Algorithmic Patterns** | Designed to enhance problem-solving skills, this repository explores creative patterns | Go, Javascript,Java,Python | [AlgorithmicPatterns](https://github.com/lenardjombo/AlgorithmicPatterns) |
-| **Java Open-Source-Projects** | Open-source-Projects for collaborations from developers globally |   Java   | [Open-Source-Projects](https://github.com/lenardjombo/Java-open-source-projects) |
-| **CastMovies** | CastMovies is an online movie streaming platform(Backend - (Not yet implemented) |Html ,Css3 and Javascript | [CastMovies](https://github.com/lenardjombo/CastMovies)|
----
+<table> <tr> <th>🧠 Project</th> <th>📝 Description</th> <th>🛠️ Tech Stack</th> <th>🔗 Link</th> </tr> <tr> <td><strong>CastWaves</strong></td> <td>Podcast platform focused on programming and tech content. Supports offline downloads.</td> <td>HTML, CSS, JavaScript</td> <td><a href="https://cast-waves.vercel.app/">Visit Website</a></td> </tr> <tr> <td><strong>Algorithmic Patterns</strong></td> <td>Problem-solving repository exploring creative patterns across languages.</td> <td>Go, JavaScript, Java, Python</td> <td><a href="https://github.com/lenardjombo/AlgorithmicPatterns">AlgorithmicPatterns</a></td> </tr> <tr> <td><strong>Java Open-Source Projects</strong></td> <td>Global collaboration on Java-based open source projects.</td> <td>Java</td> <td><a href="https://github.com/lenardjombo/Java-open-source-projects">Open-Source Projects</a></td> </tr> <tr> <td><strong>CastMovies</strong></td> <td>Online movie streaming platform (Backend not yet implemented).</td> <td>HTML, CSS3, JavaScript</td> <td><a href="https://github.com/lenardjombo/CastMovies">CastMovies</a></td> </tr> </table>
 
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=lenardjombo&show_icons=true&locale=en" alt="lenardjombo" />
