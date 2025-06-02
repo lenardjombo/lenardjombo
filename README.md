@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I’m Leonard Jombo 👋🏾</h1>
 
-
-
 <table align="center">
   <tr>
     <td>
