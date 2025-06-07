@@ -7,7 +7,7 @@
     </td>
     <td>
       <p>
-       🖋️ I'm a software Developer who is passionate about making open-source more accessible,passionate about building things that matter<br>
+       🖋️ I'm a software Developer who is passionate about backend systems and security, making open-source more accessible,building things that matter,<br>
         creating technology to elevate people and building community.<br><br>
         🚀 <a href="https://jombo-six.vercel.app">Projects</a>
       </p>
