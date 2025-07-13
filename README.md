@@ -9,7 +9,9 @@
     <td>
       <p> 
        I'm a software Developer who is passionate about backend systems and security, making open-source more accessible,building things that matter,<br>
-       creating technology to elevate people and building community.<br><br> <blockquote align="center">📤Pushes confirm sanitized payloads . <a href="https://jombo-six.vercel.app"> <h4> View Projects</h4></a></blockquote> 
+       creating technology to elevate people and building community.<br><br> <blockquote align="center">
+  📤 Pushes confirm sanitized payloads. <br>
+  <a href="https://jombo-six.vercel.app" style="text-decoration: none; font-size: 1.2em; font-weight: bold;">View Projects</a></blockquote>
       </p>
     </td>
   </tr>
