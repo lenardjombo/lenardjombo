@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Leonard Jombo 👋🏾 .</h1>
-<blockquote align="center">📤Pushes confirm sanitized payloads.</blockquote>
+
 
 <table align="center">
   <tr>
@@ -7,10 +7,9 @@
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding in Action" />
     </td>
     <td>
-      <p>
-       🖋️ I'm a software Developer who is passionate about backend systems and security, making open-source more accessible,building things that matter,<br>
-        creating technology to elevate people and building community.<br><br>
-        🚀 <a href="https://jombo-six.vercel.app">Projects</a>
+      <p> 
+       I'm a software Developer who is passionate about backend systems and security, making open-source more accessible,building things that matter,<br>
+       creating technology to elevate people and building community.<br><br> <blockquote align="center">📤Pushes confirm sanitized payloads . <a href="https://jombo-six.vercel.app"> <h4> View Projects</h4></a></blockquote> 
       </p>
     </td>
   </tr>
