@@ -26,19 +26,12 @@
 
 
 
-
-
-<div style="display: flex; gap: 10px;">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lenardjombo&show_icons=true&locale=en" alt="lenardjombo" /></p>
-<!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lenardjombo&" alt="lenardjombo" /></p> -->
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lenardjombo&show_icons=true&theme=radical" alt="Leonard's GitHub stats" />
+</p>
 
 ---
 ##  **Contact**
 Email: 👉 [leonardjombo6@gmail.com](mailto:leonardjombo6@gmail.com)  
 LinkedIn: 👉 [Lenard Jombo](https://www.linkedin.com/in/leonard-jombo-7063a3254/)  
 Website: 👉 [MyWebsite](https://jombo-six.vercel.app/)  
-
-
-
-  
