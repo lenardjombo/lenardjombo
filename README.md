@@ -11,7 +11,7 @@
        I'm a software Developer who is passionate about backend systems and security, making open-source more accessible,building things that matter,<br>
        creating technology to elevate people and building community.<br><br> <blockquote align="center">
   📤 Pushes confirm sanitized payloads. <br>
-  <a href="https://jombo-six.vercel.app" style="text-decoration: none; font-size: 1.2em; font-weight: bold;">View Portfolio</a></blockquote>
+  <a href="https://jomboi8.vercel.app" style="text-decoration: none; font-size: 1.2em; font-weight: bold;">View Portfolio</a></blockquote>
       </p>
     </td>
   </tr>
